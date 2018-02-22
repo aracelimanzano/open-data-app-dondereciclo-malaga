@@ -1,5 +1,5 @@
 # open-data-app-dondereciclo-malaga
-Development of an Android Open Data App based on the actual available repository from [a link](datosabiertos.malaga.eu/) Malaga (Spain).
+Development of an Android Open Data App based on the actual available repository from [Datos Abiertos Ayto. Málaga](datosabiertos.malaga.eu/) (Spain).
 
 According to the Open definition, a statement of principles around open infor-mation, open data is “data that can be freely used, modified and shared by anyone for any purpose”. Many different entities, such as government, private sector or academia, can open their data in several forms including financial data, geographic data, environmental data or even archives and collections metadata. After data is opened by any entity, it can be freely reused by others to create new knowledge and new applications of information for commercial and non-commercial use.
 
